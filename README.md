@@ -56,13 +56,13 @@ I have tried many more things too but don't want to mention those.
   <tr>
     <td>ERP</td>
     <td>Not published yet</td>
-    <td>Python, Django, Web Socket, PostgreSQL</td>
+    <td>Python, Django Rest Framework, Web Socket, PostgreSQL</td>
   </tr>
   
   <tr>
     <td>Accounting application</td>
     <td>Not published yet</td>
-    <td>Python, Django, Web Socket, Scheduler, Google APIs, PostgreSQL</td>
+    <td>Python, Django Rest Framework, Web Socket, Scheduler, Google APIs, PostgreSQL</td>
   </tr>
   <tr>
     <td>Instagram Clone</td>
