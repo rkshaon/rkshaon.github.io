@@ -10,11 +10,9 @@
 <a href="https://www.facebook.com/rkshaon"><img height="30" src="https://cdn-icons-png.flaticon.com/512/124/124010.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/rkshaon91"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"></a>&nbsp;&nbsp;
 <a href="mailto:rkshaon.ist@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"></a>&nbsp;&nbsp;
-
-
 <br />
 
-I' building high-performance ERP application's APIs with Python, Django, PostgreSQL.
+I'm building high-performance ERP application's APIs with Python, Django, PostgreSQL.
 
 As an enginner I try to write readable, comparatively correct, reliable, reusable, extensible, flexible, efficient code.
 
@@ -25,18 +23,22 @@ My goal is to become system archictect.
 ## Skills
 <table>
   <tr>
+    <td><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></td>
     <td>Python</td>
     <td>3 years+ experience</td>
   </tr>
   <tr>
+    <td><img height="30" src="https://static.djangoproject.com/img/logo-django.42234b631760.svg"></td>
     <td>Django</td>
     <td>2 years+ experience</td>
   </tr>
   <tr>
+    <td><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"></td>
     <td>PostgreSQL</td>
     <td>Almost 2 years experience</td>
   </tr>
   <tr>
+    <td><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></td>
     <td>JavaScript</td>
     <td>Knows more than 5 years, and I love JavaScript</td>
   </tr>
