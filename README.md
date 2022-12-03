@@ -12,13 +12,23 @@
 <a href="mailto:rkshaon.ist@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"></a>&nbsp;&nbsp;
 <br />
 
-I'm building high-performance ERP application's APIs with Python, Django, PostgreSQL.
+## Overview
+<table>
+  <tr>
+    <td><img src="https://media.tenor.com/3nKnLBtsMtcAAAAC/coding-code.gif"></td>
+    <td>
+      I'm building high-performance ERP application's APIs with Python, Django, PostgreSQL.
+      <br><br>
+      As an enginner I try to write readable, comparatively correct, reliable, reusable, extensible, flexible, efficient code.
+      <br><br>I am good at analysing requirements, design ininteractive application.
+      <br><br>My goal is to become system architect.
+    </td>
+  </tr>
+</table>
+  
 
-As an enginner I try to write readable, comparatively correct, reliable, reusable, extensible, flexible, efficient code.
+<br>
 
-I am good at analysing requirements, design ininteractive application.
-
-My goal is to become system archictect.
 
 ## Skills
 <table>
