@@ -3,14 +3,6 @@
 
 ### 👋 there, welcome to profile of [Rezaul Karim Shaon](https://www.linkedin.com/in/rkshaon) who is currently working as backend enginner.
 
-## Available on
-<a href="https://www.linkedin.com/in/rkshaon"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>&nbsp;&nbsp;
-<a href="https://github.com/rkshaon"><img height="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/rkshaon97"><img height="30" src="https://cdn-icons-png.flaticon.com/512/124/124021.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/rkshaon"><img height="30" src="https://cdn-icons-png.flaticon.com/512/124/124010.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/rkshaon91"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"></a>&nbsp;&nbsp;
-<a href="mailto:rkshaon.ist@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"></a>&nbsp;&nbsp;
-
 ## Overview
 <table>
   <tr>
@@ -49,7 +41,7 @@
   </tr>
 </table>
 
-I have tried many more things too but don't want to mention those.
+I have tried many more things too!
 
 ## Notable works
 <table>  
@@ -91,6 +83,14 @@ I have tried many more things too but don't want to mention those.
     <td><a target="_blank" href="https://codeforces.com/profile/rkshaon">View profile</a></td>
   </tr>  
 </table>
+
+## Available on
+<a href="https://www.linkedin.com/in/rkshaon"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>&nbsp;&nbsp;
+<a href="https://github.com/rkshaon"><img height="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/rkshaon97"><img height="30" src="https://cdn-icons-png.flaticon.com/512/124/124021.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/rkshaon"><img height="30" src="https://cdn-icons-png.flaticon.com/512/124/124010.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/rkshaon91"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"></a>&nbsp;&nbsp;
+<a href="mailto:rkshaon.ist@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"></a>&nbsp;&nbsp;
 
 <!--
 **rkshaon/rkshaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
