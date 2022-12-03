@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=rkshaon)
 # Rezaul Karim Shaon, Backend Engineer @ [AGL](https://www.linkedin.com/company/algorithmgeneration/)
 
-### 👋, welcome to profile of [Rezaul Karim Shaon](https://www.linkedin.com/in/rkshaon) who is currently working as backend enginner.
+### 👋 there, welcome to profile of [Rezaul Karim Shaon](https://www.linkedin.com/in/rkshaon) who is currently working as backend enginner.
 
 ## Available on
 - [Twitter](https://twitter.com/rkshaon97)
@@ -56,6 +56,20 @@ I have tried many more things too but don't want to mention those.
 </table>
 
 ## Problem solving
+<table>
+  <tr>
+    <td>LeetCode</td>
+    <td><a target="_blank" href="https://leetcode.com/rkshaon">View profile</a></td>
+  </tr>
+  <tr>
+    <td>HackerRank</td>
+    <td><a target="_blank" href="https://www.hackerrank.com/rkshaon_ist">View profile</a></td>
+  </tr>
+  <tr>
+    <td>Codeforces</td>
+    <td><a target="_blank" href="https://codeforces.com/profile/rkshaon">View profile</a></td>
+  </tr>  
+</table>
 
 <!--
 **rkshaon/rkshaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
