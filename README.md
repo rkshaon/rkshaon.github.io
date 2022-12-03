@@ -10,25 +10,20 @@
 <a href="https://www.facebook.com/rkshaon"><img height="30" src="https://cdn-icons-png.flaticon.com/512/124/124010.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/rkshaon91"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"></a>&nbsp;&nbsp;
 <a href="mailto:rkshaon.ist@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"></a>&nbsp;&nbsp;
-<br />
 
 ## Overview
 <table>
   <tr>
-    <td><img src="https://media.tenor.com/3nKnLBtsMtcAAAAC/coding-code.gif"></td>
+    <td><img width="150" src="https://media.tenor.com/3nKnLBtsMtcAAAAC/coding-code.gif"></td>
     <td>
       I'm building high-performance ERP application's APIs with Python, Django, PostgreSQL.
       <br><br>
-      As an enginner I try to write readable, comparatively correct, reliable, reusable, extensible, flexible, efficient code.
+      As an enginner I try to write readable, comparatively correct, reliable, reusable, extensible, flexible, efficient code. I like to learn new stuff, and always looking for an opportunity and environment of learning scopes. I am a fast learner.
       <br><br>I am good at analysing requirements, design ininteractive application.
       <br><br>My goal is to become system architect.
     </td>
   </tr>
 </table>
-  
-
-<br>
-
 
 ## Skills
 <table>
@@ -56,7 +51,7 @@
 
 I have tried many more things too but don't want to mention those.
 
-## Some notable works
+## Notable works
 <table>
   <tr>
     <td>Instagram Clone</td>
