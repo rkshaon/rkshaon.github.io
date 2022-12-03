@@ -18,9 +18,9 @@
     <td>
       I'm building high-performance ERP application's APIs with Python, Django, PostgreSQL.
       <br><br>
-      As an enginner I try to write readable, comparatively correct, reliable, reusable, extensible, flexible, efficient code. I like to learn new stuff, and always looking for an opportunity and environment of learning scopes. I am a fast learner.
-      <br><br>I am good at analysing requirements, design ininteractive application.
-      <br><br>My goal is to become system architect.
+      As an engineer I try to write readable, comparatively correct, reliable, reusable, extensible, flexible, efficient code. I like to learn new stuff, and always looking for an opportunity and environment of learning scopes. I am a fast learner.
+      <br><br>I am good at analyzing requirements, design interactive applications based on requirements.
+      <br><br>My goal is to become a system architect.
     </td>
   </tr>
 </table>
