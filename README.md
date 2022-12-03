@@ -38,8 +38,25 @@ My goal is to become system archictect.
     <td>Knows more than 5 years, and I love JavaScript</td>
   </tr>
 </table>
+
 I have tried many more things too but don't want to mention those.
-  
+
+## Some notable works
+<table>
+  <tr>
+    <td>Instagram Clone</td>
+    <td><a target="_blank" href="https://github.com/rkshaon/django_instagram_clone">View code</a></td>
+    <td>Python, Django, Celery</td>
+  </tr>
+  <tr>
+    <td>IMDB Clone</td>
+    <td><a target="_blank" href="https://github.com/rkshaon/django_imdb_clone">View code</a></td>
+    <td>Python, Django</td>
+  </tr>
+</table>
+
+## Problem solving
+
 <!--
 **rkshaon/rkshaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
