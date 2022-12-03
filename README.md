@@ -6,7 +6,7 @@
 ## Overview
 <table>
   <tr>
-    <td><img width="150" src="https://media.tenor.com/3nKnLBtsMtcAAAAC/coding-code.gif"></td>
+    <td><img width="180" src="https://media.tenor.com/3nKnLBtsMtcAAAAC/coding-code.gif"></td>
     <td>
       I'm building high-performance ERP application's APIs with Python, Django, PostgreSQL.
       <br><br>
