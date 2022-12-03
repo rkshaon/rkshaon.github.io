@@ -18,12 +18,7 @@ As an enginner I try to write readable, comparatively correct, reliable, reusabl
 
 I am good at analysing requirements, design ininteractive application.
 
-
-My goal is to make the Python ecosystem more productive by building faster developer tools.
-
-I was most recently a staff software engineer at Spring Discovery. Before that, I was a senior software engineer at Khan Academy.
-
-The best way to track my work is to follow me on Twitter (@charliermarsh). The best way to get in touch is to DM me on Twitter (@charliermarsh).
+My goal is to become system archictect.
 <!--
 **rkshaon/rkshaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
