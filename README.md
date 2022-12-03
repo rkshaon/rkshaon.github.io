@@ -52,7 +52,18 @@
 I have tried many more things too but don't want to mention those.
 
 ## Notable works
-<table>
+<table>  
+  <tr>
+    <td>ERP</td>
+    <td>Not published yet</td>
+    <td>Python, Django, Web Socket, PostgreSQL</td>
+  </tr>
+  
+  <tr>
+    <td>Accounting application</td>
+    <td>Not published yet</td>
+    <td>Python, Django, Web Socket, Scheduler, Google APIs, PostgreSQL</td>
+  </tr>
   <tr>
     <td>Instagram Clone</td>
     <td><a target="_blank" href="https://github.com/rkshaon/django_instagram_clone">View code</a></td>
