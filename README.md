@@ -30,6 +30,11 @@
     <td>2 years+ experience</td>
   </tr>
   <tr>
+    <td><img height="30" src="https://www.django-rest-framework.org/img/logo.png"></td>
+    <td>Django Rest Framework</td>
+    <td>2 years+ experience</td>
+  </tr>
+  <tr>
     <td><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"></td>
     <td>PostgreSQL</td>
     <td>Almost 2 years experience</td>
