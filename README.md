@@ -8,7 +8,7 @@
   <tr>
     <td><img width="180" src="https://media.tenor.com/3nKnLBtsMtcAAAAC/coding-code.gif"></td>
     <td>
-      I'm building high-performance ERP application's APIs with Python, Django, PostgreSQL.
+      I'm building high-performance ERP application's APIs by using Python, Django, PostgreSQL.
       <br><br>
       As an engineer I try to write readable, comparatively correct, reliable, reusable, extensible, flexible, efficient code. I like to learn new stuff, and always looking for an opportunity and environment of learning scopes. I am a fast learner.
       <br><br>I am good at analyzing requirements, design interactive applications based on requirements.
